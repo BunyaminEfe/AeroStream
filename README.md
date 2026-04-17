@@ -81,4 +81,4 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## Drive Link GTR35
 https://drive.google.com/file/d/13sMYbRCl3VGkwgRJgNJ0EgnNx8DeqlT-/view?usp=sharing
 ---
-**Developed with ❤️ by [Your Name/Bünyamin Efe]**
+**Developed with ❤️ by [Bünyamin Efe]**
